@@ -1,9 +1,11 @@
 ﻿using HackRFTest;
 
-ReadDevicesList.Run();
+//ReadDevicesList.Run();
 
+ReceiveData.Run();
 
 
 
 Console.WriteLine("End.");
 return;
+
